@@ -5,7 +5,7 @@
 This is a doorbell with smart functions.
 It does sound, like a regular doorbell when you press the button, but it also starts a livestream and sends a message via webhook on slack.
 
-We made this as a project for our embedded class.
+This is a project I worked on with https://github.com/C-HGP, where this is reuploaded from. We made this as a project for our embedded class.
 
 # Setup #
 Both the folders will have individual instructions for both units.
